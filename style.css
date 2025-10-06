@@ -11,6 +11,7 @@
    height: 100vh;
    font-family: Romanesco, sans-serif;
    font-size: 24px;
+   background-color: #414851;
  }
  
  .container {
@@ -23,8 +24,7 @@
     padding: 2rem;
     gap: 10px;
     text-align: center;
-    background: radial-gradient(#f6b8, #cc8);
-
+    background-color: #152b33;
  }
  .tree {
     width: 100px;
@@ -33,7 +33,7 @@
  }
 .gift {
    padding: 10px 20px;
-   background-color: #1e1e59;
+   background-color: #101a36;
    color: white;
    border-radius: 5px;
 }
@@ -42,6 +42,7 @@
 }
 .central-text {
    padding: 30px;
+  color: white;
 }
 .title {
    color: #ed772e
